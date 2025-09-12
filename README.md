@@ -3,10 +3,13 @@
 Premium, production-ready React application for a luxury hospitality brand. Crafted with a refined UI (gold accents, dark/light themes), smooth motion, and a real backend powered by Supabase.
 
 <p align="center">
-  <img alt="Luxora" src="public/logo-bg1.png" width="80">
+  <img alt="Luxora" src="public/hero.png" width="800">
 </p>
 
 ---
+## Screenshots and Demos
+  <img alt="Luxora" src="public/logo-bg1.png" width="80">
+
 
 ## ✨ Features
 
@@ -32,29 +35,12 @@ Premium, production-ready React application for a luxury hospitality brand. Craf
 - **Supabase** (Auth, Database, Storage)
 - **SweetAlert2**, **react-hot-toast**
 
-> Build tooling: works with **Vite** (`npm run dev`) or CRA (`npm start`). See scripts below.
+> Build tooling: works with **Vite** (`npm run dev`) or CRA (`npm start`).
 
 ---
 
-## 🚀 Quick Start
 
-```bash
-# 1) Clone
-git clone https://github.com/ritinmandal/Luxora_React_Website.git
-cd Luxora_React_Website
 
-# 2) Install deps
-npm install
-
-# 3) Configure env (see .env examples below)
-
-# 4) Run dev server
-npm run dev     # Vite
-# or
-npm start       # CRA
-
-# 5) Build for production
-npm run build   # Output: dist/ (Vite) or build/ (CRA)
 
 
 
