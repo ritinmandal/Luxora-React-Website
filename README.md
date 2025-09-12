@@ -7,7 +7,7 @@ Premium, production-ready React application for a luxury hospitality brand. Craf
 </p>
 
 ---
-## Screenshots and Demos
+## 📸 Screenshots and Demos
   <img alt="Luxora" src="public/hero.png" width="800">
     <img alt="Luxora" src="public/room.png" width="800">
   <img alt="Luxora" src="public/dine-light.png" width="800">
@@ -43,6 +43,7 @@ Premium, production-ready React application for a luxury hospitality brand. Craf
 > Build tooling: works with **Vite** (`npm run dev`) or CRA (`npm start`).
 
 ---
+
 
 
 
