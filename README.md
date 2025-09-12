@@ -3,7 +3,7 @@
 Premium, production-ready React application for a luxury hospitality brand. Crafted with a refined UI (gold accents, dark/light themes), smooth motion, and a real backend powered by Supabase.
 
 <p align="center">
-  <img alt="Luxora" src="public/logo-bg1.png" width="720">
+  <img alt="Luxora" src="public/logo-bg1.png" width="20">
 </p>
 
 ---
@@ -55,6 +55,7 @@ npm start       # CRA
 
 # 5) Build for production
 npm run build   # Output: dist/ (Vite) or build/ (CRA)
+
 
 
 
