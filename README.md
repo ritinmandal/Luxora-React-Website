@@ -1,6 +1,11 @@
 # Luxora — Luxury Hotel & Resort Website
 
 Premium, production-ready React application for a luxury hospitality brand. Crafted with a refined UI (gold accents, dark/light themes), smooth motion, and a real backend powered by Supabase.
+[![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)](#)
+[![MUI](https://img.shields.io/badge/MUI-5-007FFF?logo=mui&logoColor=white)](#)
+[![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-2-764ABC?logo=redux&logoColor=white)](#)
+[![Framer Motion](https://img.shields.io/badge/Framer%20Motion-11-0055FF?logo=framer&logoColor=white)](#)
+
 
 <p align="center">
   <img alt="Luxora" src="public/logo-bg1.png" width="80">
@@ -43,6 +48,7 @@ Premium, production-ready React application for a luxury hospitality brand. Craf
 > Build tooling: works with **Vite** (`npm run dev`) or CRA (`npm start`).
 
 ---
+
 
 
 
