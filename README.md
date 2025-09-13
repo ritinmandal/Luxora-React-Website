@@ -10,7 +10,9 @@ Premium, production-ready React application for a luxury hospitality brand. Craf
 <p align="center">
   <img alt="Luxora" src="public/logo-bg1.png" width="80">
 </p>
-## 🔗 Vercel Link
+---
+## 🔗Vercel Link
+
 https://react-luxora-website.vercel.app/dine
 ---
 ## 📸 Screenshots and Demos
@@ -49,6 +51,7 @@ https://react-luxora-website.vercel.app/dine
 > Build tooling: works with **Vite** (`npm run dev`) or CRA (`npm start`).
 
 ---
+
 
 
 
